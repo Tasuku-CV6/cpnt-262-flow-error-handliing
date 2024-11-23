@@ -2,6 +2,8 @@
 
 This project interacts with the PokeAPI to fetch data about Pokémon. You can retrieve specific information about Pokémon (such as name, type, etc.), and filter the results based on the Pokémon’s type (e.g., "fire", "water", "electric"). The script demonstrates error handling, API interaction, and data manipulation using Node.js.
 
+## Author: Ethan Dam
+
 ## Challenge Description
 
 ### Challenge 1: API Interaction and Data Processing
